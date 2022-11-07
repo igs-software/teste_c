@@ -49,3 +49,35 @@ cor_final = 0xFF001A;
 steps = 3;
 output_esperado: 0x55001A\n 0xAA001A\n 0XFF001A\n
 ```
+
+## Questão 04
+
+Dada uma array de k , lista lincada “listas”, cada lista esta em ordem ascendente. Mergear as listas lincadas em uma única lista em ordem ascendente.
+
+Input: 
+
+```
+listas = [[1,3,8],[1,3,6],[8,9]] 
+```
+
+Output: 
+
+```[1,1,3,3,6,8,8,9]```
+
+Referência:
+
+```
+listas = [ ] 
+output = [ ]
+listas = [ [ ] ] 
+output = [ ]
+struct ListaNode* mergeKListas(struct ListNode** listas, int listasSize){}
+```
+
+## Questão 05
+
+Refatorar o código-fonte contido no arquivo *questao_05.c* deste repositório.
+
+Serão considerados fatores como melhoria na eficiência, identação, e simplicidade.
+
+O código deverá fazer um sorteio e a comparação com o “premio”. Se houver match , deverá ser exibida a saída da string “ganhou”.
