@@ -25,7 +25,7 @@ Desenvolver um programa que receba via teclado um número romano, converta o mes
 
 Considerar como números validos: I = 1, V = 5 , X = 10, L = 50, C = 100, D = 500, M = 1000
 
-Exemplos de referência de saída : IV = 4 , VI = 6 , XII = 12 , IX =9 , VIII = 8, MDCDLXXIV = 1974.
+Exemplos de referência de saída : IV = 4 , VI = 6 , XII = 12 , IX =9 , VIII = 8, MCMLXXIV = 1974.
 
 ## Questão 03
 
