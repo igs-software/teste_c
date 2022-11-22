@@ -38,6 +38,7 @@ Podemos, portanto, representar cada canal de cor por um par hexadecimal, de 00 a
 - 0x0000FF nos daria o azul mais brilhante;
 - 0x00FF00 nos daria o máximo de verde possivel;
 - 0xFF0000 nos daria o vermelho mais vivo;
+- 0xFFFFFF seria o branco
 
 Crie com base nisto uma função que gradativamente mude e printe a cor vermelha de r_inicial para r_final em um certo numero de passos;
 
