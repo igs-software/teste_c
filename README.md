@@ -35,9 +35,9 @@ seguidos por 8 bits que representam a claridade de verde, que por sua vez são s
 Podemos, portanto, representar cada canal de cor por um par hexadecimal, de 00 a FF. Conseguimos definir então que:
 
 - 0x0 é equivalente a preto, já que a luminosidade de todos os canais está em 0; 
-- 0xFF (255) nos daria o azul mais brilhante;
-- 0xFF00 (65280) nos daria o máximo de verde possivel;
-- 0xFF0000 (16711680) nos daria o vermelho mais vivo;
+- 0x0000FF nos daria o azul mais brilhante;
+- 0x00FF00 nos daria o máximo de verde possivel;
+- 0xFF0000 nos daria o vermelho mais vivo;
 
 Crie com base nisto uma função que gradativamente mude e printe a cor vermelha de r_inicial para r_final em um certo numero de passos;
 
