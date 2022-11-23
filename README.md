@@ -40,7 +40,7 @@ Podemos, portanto, representar cada canal de cor por um par hexadecimal, de 00 a
 - 0xFF0000 nos daria o vermelho mais vivo;
 - 0xFFFFFF seria o branco
 
-Crie com base nisto uma função que gradativamente mude e printe a cor vermelha de r_inicial para r_final em um certo numero de passos;
+Crie com base nisto uma função que gradativamente mude e printe a cor vermelha de cor_inicial para cor_final em um certo numero de passos, passando como argumentos do programa: cor_inicial, cor_final e a quantidade de passos.
 
 Referência de saída:
 
