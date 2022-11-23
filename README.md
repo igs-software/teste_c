@@ -53,7 +53,7 @@ output_esperado: 0x55001A\n 0xAA001A\n 0XFF001A\n
 
 ## Questão 04
 
-Dada uma array de k , lista lincada “listas”, cada lista esta em ordem ascendente. Mergear as listas lincadas em uma única lista em ordem ascendente.
+Dada uma array de k , lista lincada “listas”, cada lista esta em ordem ascendente. Mergear as listas lincadas em uma única lista em ordem ascendente. Observação: a array deve ser passado via parâmetro do programa ou informado via input do usuário.
 
 Input: 
 
